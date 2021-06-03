@@ -1,0 +1,40 @@
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\SplendidCRM.dll.config
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\SplendidCRM.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\SplendidCRM.pdb
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\BouncyCastle.Crypto.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Common.Logging.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\DocumentFormat.OpenXml.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\MailKit.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\MimeKit.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Spring.Rest.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Spring.Social.Core.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Common.Logging.pdb
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Common.Logging.xml
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\DocumentFormat.OpenXml.xml
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\MailKit.xml
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\MimeKit.xml
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Spring.Rest.pdb
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Spring.Rest.xml
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Spring.Social.Core.pdb
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\bin\Spring.Social.Core.xml
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM.dll
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM.pdb
+C:\Users\dtrus\AppData\Local\Programs\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM7_VS2013.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\SplendidCRM.dll.config
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\SplendidCRM.dll
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\SplendidCRM.pdb
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Common.Logging.dll
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Newtonsoft.Json.dll
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Spring.Rest.dll
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Spring.Social.Core.dll
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Common.Logging.pdb
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Common.Logging.xml
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Spring.Rest.pdb
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Spring.Rest.xml
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Spring.Social.Core.pdb
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\bin\Spring.Social.Core.xml
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM7_VS2013.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM7_VS2013.csproj.CopyComplete
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM.dll
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM.pdb
+C:\Program Files (x86)\SplendidCRM Community Edition\Web Site\obj\Debug\SplendidCRM7_VS2013.csprojAssemblyReference.cache

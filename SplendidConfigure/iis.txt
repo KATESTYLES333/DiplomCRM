@@ -1,0 +1,6 @@
+[Components]
+iis_common = on
+iis_inetmgr = on
+iis_www = on
+iis_ftp = off
+iis_htmla = off
